@@ -7,24 +7,24 @@ module.exports = {
     blackList: [],
     whiteList: [],
     
-    ownerNumber: '94773010580',
+    ownerNumber: '94764921555',
     userTimezone: 'Asia/Colombo',
-    //group contact push    
+//group contact push    
     fenixwel1: 'Your Number Has Been Auto Saved🫠',
     fenixwel2: 'For Status Views🌹',
     fenixwel3: 'Save and Alert me✅',
-    //status motion puah    
+//status motion puah    
     autodetect1: 'heyyy 😸',
     autodetect2: 'ඔයගෙ නම්බරෙ ගත්තෙ ස්ටෙටස් එකකින් 🫠',
     
-    mongoUrl: 'mongodb+srv://Hello:Hello@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    mongoUrl: 'mongodb+srv://94:94@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: '94', // Replace with your database name
 
     botDetails: {
-        botName: 'FENX ID OWNER',
-        botAge: '26',
+        botName: 'FERIX ID OWNER',
+        botAge: '20',
         botLocation: 'SRILANKA',
-        fenixSaveName: '999'
+        fenixSaveName: '𝐍ɑ͢ɱꪸ𝛆'
     },
 
     relaxWishes: 'Take a deep breath... 🌿',
@@ -65,9 +65,7 @@ module.exports = {
         "එවහන්",
         "One",
         "දෙන්නකො",
-        "ewan",
-        "dapanko",
-        "dapan"
+        "SEND"
     ],
 
     // Emojis
